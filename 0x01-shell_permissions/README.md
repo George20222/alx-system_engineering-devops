@@ -1,1 +1,1 @@
-0x01 shell permit
+0x01 shell permi
